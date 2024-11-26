@@ -1,10 +1,9 @@
-package mk.ukim.finki.midterms.first.starter;
+package mk.ukim.finki.midterms.first;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-import java.util.Objects;
 import java.util.stream.Collectors;
 
 class InvalidLoanApplicationException extends Exception {

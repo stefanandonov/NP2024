@@ -1,4 +1,4 @@
-package mk.ukim.finki.midterms.first.starter;
+package mk.ukim.finki.midterms.first;
 
 import java.util.*;
 
