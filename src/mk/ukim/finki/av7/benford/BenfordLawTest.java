@@ -33,7 +33,7 @@ public class BenfordLawTest {
     public static void main(String[] args) {
         try {
             int[] result =
-                    printBenfordLawCounts("C:\\Users\\ana5t\\work\\teaching\\winter\\NP\\2023 - 2024\\code git\\NP2023\\src\\mk\\ukim\\finki\\exercise7\\benford\\library_books.txt");
+                    printBenfordLawCounts("C:\\Users\\ana5t\\work\\teaching\\winter\\NP\\2024 - 2025\\NP2024\\src\\mk\\ukim\\finki\\av7\\benford\\library_books.txt");
             Arrays.stream(result).forEach(System.out::println);
         } catch (FileNotFoundException e) {
             System.out.println(e.getMessage());
